@@ -1,6 +1,6 @@
 import express from 'express';
 import { createServer as createViteServer } from 'vite';
-import resolveHandler from './api/resolve.ts';
+import resolveHandler from './api/resolve.js';
 
 async function startServer() {
   const app = express();
