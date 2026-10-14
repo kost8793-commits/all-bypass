@@ -1,0 +1,6 @@
+{
+  "name": "Tarz Bypass Link",
+  "description": "Bypass short links and access original destinations quickly and cleanly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
